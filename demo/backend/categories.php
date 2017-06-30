@@ -1,4 +1,4 @@
 <?php
 	echo "Đây là trang danh mục";
-	echo "";
+	echo "khong van sung";
 ?>
